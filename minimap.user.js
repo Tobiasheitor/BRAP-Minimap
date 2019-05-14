@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         SpaceCanvas Minimap
-// @namespace    SpaceCanvas Minimap
+// @name         yOriowm Minimap
+// @namespace    yOriowm Minimap
 // @version      0.1.0
 // @description  Minimap Oficial yOriowm
 // @author       yOriowm#1046
