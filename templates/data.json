@@ -167,6 +167,41 @@
     "width": 84,
     "height": 24
                        },
+  "kek1": {
+    "name": "kek1.png",
+    "x": -2775,
+    "y": 3168,
+    "width": 149,
+    "height": 14
+                         },
+  "kek2": {
+    "name": "kek2.png",
+    "x": -2506,
+    "y": 3280,
+    "width": 158,
+    "height": 51
+                       },
+  "kek3": {
+    "name": "kek3.png",
+    "x": -2514,
+    "y": 3265,
+    "width": 174,
+    "height": 98
+                       },
+  "kek4": {
+    "name": "kek4.png",
+    "x": -2834,
+    "y": 3006,
+    "width": 267,
+    "height": 182
+                       },
+  "kek5": {
+    "name": "kek5.png",
+    "x": -2834,
+    "y": 3005,
+    "width": 171,
+    "height": 165
+                       },
   "0": {
     "name": "0.png",
     "x": 0,
