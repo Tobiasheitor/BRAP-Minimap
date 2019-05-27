@@ -201,35 +201,5 @@
     "y": 2841,
     "width": 171,
     "height": 165
-                       },
-  "IT1": {
-    "name": "IT1.png",
-    "x": 1001,
-    "y": 1 ,
-    "width": 332 ,
-    "height": 292
-                         },
-  "IT2": {
-    "name": "IT2.png",
-    "x": 1366,
-    "y": -30,
-    "width": 358,
-    "height": 303
-}
-                       },
-  "SP1": {
-    "name": "SP1.png",
-    "x": 1310,
-    "y": -1213,
-    "width": 168,
-    "height": 133
-}
-                       },
-  "0": {
-    "name": "0.png",
-    "x": 0,
-    "y": 0,
-    "width": 0,
-    "height": 0
    }
 }
