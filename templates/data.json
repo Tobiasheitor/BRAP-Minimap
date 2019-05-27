@@ -202,6 +202,21 @@
     "width": 171,
     "height": 165
                        },
+  "IT1": {
+    "name": "IT1.png",
+    "x": 1001,
+    "y": 1 ,
+    "width": 332 ,
+    "height": 292
+                         },
+  "IT2": {
+    "name": "IT2.png",
+    "x": 1366,
+    "y": -30,
+    "width": 358,
+    "height": 303
+}
+                       },
   "0": {
     "name": "0.png",
     "x": 0,
