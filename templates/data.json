@@ -222,6 +222,12 @@
     "y": -1213,
     "width": 168,
     "height": 133
-}
-  
+                           },
+ "huemperial-1": {
+    "name": "huemperial-1.png",
+    "x": -205,
+    "y": -2192,
+    "width": 1227,
+    "height": 726
+} 
 }
