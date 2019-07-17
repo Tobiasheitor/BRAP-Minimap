@@ -228,6 +228,13 @@
     "x": -205,
     "y": -2193,
     "width": 1227,
-    "height": 726
+    "height": 726 
+                            },
+ "zeca": {
+    "name": "zeca.png",
+    "x": 9750,
+    "y": -570,
+    "width": 137,
+    "height": 232
 } 
 }
