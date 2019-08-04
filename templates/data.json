@@ -12,13 +12,13 @@
     "y": -174,
     "width": 478,
     "height": 324
-   },
-  "SpaceCanvasGridCell": {
-    "name": "SpaceCanvasGridCell.png",
-    "x": 41000,
-    "y": -43100,
-    "width": 75,
-    "height": 75   
+
+
+
+
+
+
+
    },
   "BASE": {
     "name": "BASE.png",
@@ -33,13 +33,13 @@
     "y": -1324,
     "width": 1196,
     "height": 715
-       },
-  "Robot_planet": {
-    "name": "Robot_planet.png",
-    "x": -6692,
-    "y": -3609,
-    "width": 80,
-    "height": 80
+
+
+
+
+
+
+
          },
   "autumn": {
     "name": "autumn.png",
