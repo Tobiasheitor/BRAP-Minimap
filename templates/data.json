@@ -228,6 +228,13 @@
     "x": 9846,
     "y": -583,
     "width": 394,
-    "height": 229
+    "height": 229 
+                             },
+ "carro": {
+    "name": "carro.png",
+    "x": 10108,
+    "y": -527,
+    "width": 263,
+    "height": 179
 } 
 }
