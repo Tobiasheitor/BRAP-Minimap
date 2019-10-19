@@ -236,5 +236,12 @@
     "y": -527,
     "width": 263,
     "height": 179
+                               },
+ "skool": {
+    "name": "skool.png",
+    "x": 1591,
+    "y": -2233,
+    "width": 184,
+    "height": 300
 } 
 }
