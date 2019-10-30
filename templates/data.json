@@ -97,13 +97,6 @@
     "width": 113,
     "height": 113
              },
-  "pokeBR": {
-    "name": "pokeBR.png",
-    "x": -69,
-    "y": -723,
-    "width": 126,
-    "height": 44
-             },
   "brasao": {
     "name": "brasao.png",
     "x": 310,
@@ -131,27 +124,6 @@
     "y": -773,
     "width": 138,
     "height": 42
-                   },
-  "terrbr3": {
-    "name": "terrbr3.png",
-    "x": -50,
-    "y": -736,
-    "width": 619,
-    "height": 421
-                     },
-  "br2": {
-    "name": "br2.png",
-    "x": 262,
-    "y": -694,
-    "width": 29,
-    "height": 76
-                     },
-  "Senna2": {
-    "name": "Senna2.png",
-    "x": 303,
-    "y": -859,
-    "width": 84,
-    "height": 24
                        },
   "kek1": {
     "name": "kek1.png",
@@ -250,5 +222,12 @@
     "y": -1517,
     "width": 504,
     "height": 303
+                                   },
+ "terrbr5": {
+    "name": "terrbr5.png",
+    "x": -69,
+    "y": -869,
+    "width": 903,
+    "height": 554
 }
 }
