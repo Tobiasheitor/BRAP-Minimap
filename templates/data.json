@@ -243,5 +243,12 @@
     "y": -1516,
     "width": 548,
     "height": 182
+                                         },
+ "niikcanvas": {
+    "name": "niikcanvas.png",
+    "x": 465,
+    "y": -315,
+    "width": 86,
+    "height": 45
 }
 }
