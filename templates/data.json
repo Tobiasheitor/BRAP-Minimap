@@ -236,5 +236,12 @@
     "y": -680,
     "width": 42,
     "height": 72
+                                       },
+ "intercanvas": {
+    "name": "intercanvas.png",
+    "x": 950,
+    "y": -1516,
+    "width": 548,
+    "height": 182
 }
 }
