@@ -250,5 +250,12 @@
     "y": -315,
     "width": 86,
     "height": 45
+                                           },
+ "vep": {
+    "name": "vep.png",
+    "x": 277,
+    "y": -511,
+    "width": 138,
+    "height": 78
 }
 }
