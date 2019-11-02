@@ -271,5 +271,12 @@
     "y": -1274,
     "width": 495,
     "height": 492
+                                               },
+ "vascocanvas": {
+    "name": "vascocanvas.png",
+    "x": 217,
+    "y": -984,
+    "width": 293,
+    "height": 116
 }
 }
