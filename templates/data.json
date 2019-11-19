@@ -19,6 +19,13 @@
     "y": -4154,
     "width": 1100,
     "height": 1100
+   },
+  "BASE2": {
+    "name": "BASE2.png",
+    "x": -6937,
+    "y": -3146,
+    "width": 801,
+    "height": 801
      },
   "hbe_imperial": {
     "name": "hbe_imperial.png",
