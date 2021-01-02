@@ -1,4 +1,11 @@
 {
+  "SPInd": {
+    "name": "spfcIndependente.png",
+    "x": 3589,
+    "y": -514,
+    "width": 473,
+    "height": 473
+   },
   "Barril_space": {
     "name": "Barril_space.png",
     "x": 1343,
