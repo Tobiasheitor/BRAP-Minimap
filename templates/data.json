@@ -1,7 +1,14 @@
 {
+  "cmm": {
+    "name": "unknown-43-1.png",
+    "x": -671,
+    "y": -689,
+    "width": 432,
+    "height": 222
+   },
   "myster": {
     "name": "myster.png",
-    "x": 14 ,
+    "x": 14,
     "y": -1029,
     "width": 156,
     "height": 156
