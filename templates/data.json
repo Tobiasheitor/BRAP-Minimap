@@ -1,4 +1,11 @@
 {
+  "pikachu": {
+    "name": "pikachu.png",
+    "x": 2220,
+    "y": -635,
+    "width": 107,
+    "height": 136
+   },
   "BR2": {
     "name": "BR2.png",
     "x": 2554,
