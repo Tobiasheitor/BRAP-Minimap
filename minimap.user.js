@@ -1,23 +1,23 @@
 // ==UserScript==
-// @name         yOriowm Minimap
-// @namespace    yOriowm Minimap
+// @name         BREP Minimap
+// @namespace    BREP Minimap
 // @version      0.1.0
-// @description  Minimap Oficial yOriowm
+// @description  Minimap Oficial BREP
 // @author       yOriowm#1046
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/yOriowm/SpaceCanvas-Minimap
-// @updateURL    https://raw.githubusercontent.com/yOriowm/yOriowm-Minimap/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/yOriowm/yOriowm-Minimap/master/minimap.user.js
+// @homepage     https://github.com/yOriowm/BREP-Minimap
+// @updateURL    https://raw.githubusercontent.com/yOriowm/BREP-Minimap/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/yOriowm/BREP-Minimap/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
 //ref:https://stackoverflow.com/questions/4604663/download-single-files-from-github
 //github raw file url  template
 //https://raw.githubusercontent.com/user/repository/branch/filename
-//https://raw.githubusercontent.com/yOriowm/yOriowm-Minimap/master/README.md
+//https://raw.githubusercontent.com/yOriowm/BREP-Minimap/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/yOriowm/yOriowm-Minimap/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/yOriowm/BREP-Minimap/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
@@ -174,7 +174,7 @@ function exportMd() {
     Object.keys(template_list).map(function (index, ele) {
         var eles = template_list[index];
         mdstr += '\n#### ' + index;
-        mdstr += '\n[![](https://raw.githubusercontent.com/yOriowm/SpaceCanvas-Minimap/master/images/' + eles.name + ')]';
+        mdstr += '\n[![](https://raw.githubusercontent.com/yOriowm/BREP-Minimap/master/images/' + eles.name + ')]';
         mdstr += '(http://pixelcanvas.io/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
         mdstr += '\n';
         ttlpx += eles.width * eles.height;
