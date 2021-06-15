@@ -1,4 +1,25 @@
 {
+  "GremioM": {
+    "name": "GremioM.png",
+    "x": -500000,
+    "y": -500000,
+    "width": 583,
+    "height": 350
+   },
+  "GremioB2": {
+    "name": "GremioB2.png",
+    "x": -3344,
+    "y": -1810,
+    "width": 626,
+    "height": 752
+   },
+  "GremioB1": {
+    "name": "GremioB1.png",
+    "x": -3970,
+    "y": -1810,
+    "width": 626,
+    "height": 752
+   },
   "Gremio6": {
     "name": "Gremio6.png",
     "x": -4412,
