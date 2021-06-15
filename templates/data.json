@@ -1,4 +1,39 @@
 {
+  "Gremio6": {
+    "name": "Gremio6.png",
+    "x": -4412,
+    "y": -1460,
+    "width": 442,
+    "height": 254
+   },
+  "Gremio5": {
+    "name": "Gremio5.png",
+    "x": -9,
+    "y": -1279,
+    "width": 368,
+    "height": 240
+   },
+  "Gremio4": {
+    "name": "Gremio4.png",
+    "x": -439,
+    "y": -1751,
+    "width": 237,
+    "height": 417
+   },
+  "Gremio2": {
+    "name": "Gremio2.png",
+    "x": -1295,
+    "y": -1215,
+    "width": 762,
+    "height": 403
+   },
+  "Gremio1": {
+    "name": "Gremio1.png",
+    "x": -533,
+    "y": -1274,
+    "width": 525,
+    "height": 462
+   },
   "Cruzeiro": {
     "name": "Cruzeiro.png",
     "x": 4207,
