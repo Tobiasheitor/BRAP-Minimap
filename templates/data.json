@@ -1,4 +1,18 @@
 {
+  "Galo1": {
+    "name": "Galo1.png",
+    "x": 3015,
+    "y": -600,
+    "width": 346,
+    "height": 73
+   },
+  "brvoid2": {
+    "name": "brvoid2.png",
+    "x": 217,
+    "y": -985,
+    "width": 293,
+    "height": 116
+   },
   "GremioM": {
     "name": "GremioM.png",
     "x": -500000,
