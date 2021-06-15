@@ -244,13 +244,6 @@
     "width": 184,
     "height": 300
                                  },
- "tricolor_flag": {
-    "name": "tricolor_flag.png",
-    "x": -787,
-    "y": -1517,
-    "width": 504,
-    "height": 303
-                                       },
  "intercanvas": {
     "name": "intercanvas.png",
     "x": 950,
