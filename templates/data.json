@@ -299,6 +299,13 @@
     "y": -1274,
     "width": 495,
     "height": 492
+                                               },
+ "vascocanvas": {
+    "name": "vascocanvas_DESATIV.png",
+    "x": 217,
+    "y": -985,
+    "width": 293,
+    "height": 116
                                                 },
  "InterCanvas2": {
     "name": "InterCanvas2.png",
